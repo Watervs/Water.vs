@@ -1,4 +1,7 @@
-if _G.WaterVSRunning then return end _G.WaterVSRunning = true local Players =
+if someFunction then
+    someFunction()
+end
+    if _G.WaterVSRunning then return end _G.WaterVSRunning = true local Players =
 game:GetService("Players") local RunService = game:GetService("RunService") local UIS =
 game:GetService("UserInputService") local TS = game:GetService("TweenService") local
 Lighting = game:GetService("Lighting") local HS = game:GetService("HttpService") local
