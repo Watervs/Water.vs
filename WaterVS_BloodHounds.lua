@@ -1217,7 +1217,7 @@ grad.Offset = Vector2.new(math.sin(t * speed) * 0.4, 0) task.wait(0.04) end end)
 function getDefaultButtonPosition(btnName) local BTN_W, BTN_H = 60, 60 local GAP = 8 local
 orderMap = { DropBR = 0, AutoLeft = 1, AutoBat = 2, AutoRight = 3, TpDown = 4, Carry = 5,Lagger1 = 6, Lagger2 = 7 } local order = orderMap[btnName] or 0 local row = math.floor(order /
 2) local col = order % 2 return col * (BTN_W + GAP), row * (BTN_H + GAP + 10) end local
-BackgroundDecals = { [1] = "", [2] = "", [3] = "", [4] = "", [5] = "", }
+BackgroundDecals = { [1] = "WaterVS_logo.png", [2] = "", [3] = "", [4] = "", [5] = "", }
 -- Water.vs custom logo background
 -- Put WaterVS_logo.png in your executor workspace (same folder writefile uses)
 -- then the script will load it via getcustomasset as the UI background.
