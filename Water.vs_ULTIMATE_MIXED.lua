@@ -1,8 +1,3 @@
---[[LFWM1_XFYgxFhwlXshNr89c7mk9e7UnYTV0AVw]]
-do
-  local lfwm_7e97626092df4313 = "LFWM1_XFYgxFhwlXshNr89c7mk9e7UnYTV0AVw"
-  if false then error(lfwm_7e97626092df4313) end
-end
 
 -- [[ WATER.VS DUELS — ULTIMATE MIXED ]]
 -- Merged Makeover 2.0 + Cyan Rain Ultimate
