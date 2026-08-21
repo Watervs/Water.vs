@@ -1,8 +1,3 @@
--- [[ WATER.VS DUELS — ULTIMATE MIXED ]]
--- Merged Makeover 2.0 + Cyan Rain Ultimate
--- Premium glass UI · Multi-layer cyan rain · Zero red · Full Water.vs branding
--- Infinite jump, full feature set, smooth page scrolling
--- Compatibility fixed (no LFWM stub, no +=, safer startup)
 
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
