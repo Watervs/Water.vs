@@ -1,1 +1,838 @@
-return(function(...)local g={"\088\111\113\065\088\065\049\048\104\087\100\117\085\081\043\117\119\086\061\061","\122\066\113\097\075\098\061\061","\117\102\056\051\121\073\068\100\117\056\061\061","\119\065\049\053\075\065\089\089\117\067\074\090\119\067\120\050","\075\111\113\057\075\111\072\115","\104\082\072\115\119\110\061\061";"\121\111\066\120\105\101\043\068";"\088\050\071\070\104\054\121\051";"\082\101\086\090\105\077\072\052\065\082\120\071\077\115\067\081\088\086\061\061";"\055\069\089\115\088\067\105\051\105\110\061\061";"\043\067\043\065\065\122\100\084\104\069\120\069\103\071\105\075";"\075\111\120\120\088\056\061\061";"\104\101\113\120\121\069\043\115\088\050\051\057\121\098\061\061","\105\082\084\098\075\082\043\080","\119\069\072\067\121\108\086\081\071\069\043\101\043\098\061\061","\104\047\067\061";"\086\065\090\112\088\115\100\047\086\071\120\087\089\111\070\120","";"\071\101\072\070\088\101\071\052\074\067\089\051\105\101\071\108\105\101\071\087\074\086\061\061";"\088\051\065\048\086\071\068\048\077\111\100\052\077\082\051\073\088\098\061\061";"\121\050\121\116\089\122\049\117\119\097\056\098";"\117\072\071\084\119\108\049\119\105\050\090\065\055\108\105\074","\088\050\072\057\121\101\113\070","\121\054\043\066\075\056\061\061","\122\066\113\100\104\050\089\051\103\110\061\061";"\077\082\089\067\082\065\120\074\103\047\088\098\103\101\105\086\065\110\061\061";"\075\097\051\115\121\086\061\061","\075\111\043\072\117\077\071\066\055\071\105\084\103\067\113\101";"\088\054\089\052\119\082\084\097","\117\056\061\061";"\088\111\071\115\104\082\071\115\075\122\089\120\075\050\090\051","\122\066\113\070\121\122\089\120\105\101\072\102\104\101\065\061","\102\108\043\097\070\065\079\115\072\057\055\082\101\049\086\069\100\112\066\066\066\072\086\080\105\122\073\073\112\076\110\087\076\112\076\076\111\072\071\115\073\089\084\054\105\067\085\065\081\077\055\069\097\052\107\071\071\089\077\110\122\049\120\074\073\082\102\051\083\109\114\090\116\089\083\082\102\069\073\084\049\085\116\101\097\068\117\104\056\112\081\073\118\109\065\082\121\102\106\056\082\052\085\116\109\068\117\109\052\082\089\075\090\069\065\079\075\098\056\116\065\081\098\061","\055\077\051\073\119\065\113\052\104\069\121\081\105\087\121\121\105\110\061\061","\104\101\071\057";"\119\072\087\111","\104\054\089\080\103\087\090\050\075\065\066\055\055\072\056\052\117\071\068\061";"\105\101\113\081\105\069\049\100\104\050\088\061";"\088\101\043\120\104\101\098\061","\104\047\074\061";"\122\066\113\053\121\082\048\061","\121\111\072\070\121\086\061\061";"\105\101\072\102\104\101\065\061";"\089\066\049\099\055\067\084\107\086\097\074\061";"\121\122\049\052\104\054\074\061","\105\101\113\057\105\082\066\102\121\122\074\061";"\121\050\090\107\104\054\074\061"}local function K(K)return g[K+(-211780+271377)]end for K,Z in ipairs({{472315-472314,436049-436002},{-28443+28444;-895818-(-895826)},{-180465+180474;243409-243362}})do while Z[324086+-324085]<Z[558537+-558535]do g[Z[1024018+-1024017]],g[Z[302613-302611]],Z[-670981+670982],Z[700623+-700621]=g[Z[-133702+133704]],g[Z[-900875+900876]],Z[70232+-70231]+(721253-721252),Z[3219+-3217]-(382599+-382598)end end do local K=g local Z=string.sub local f=math.floor local D=type local h=table.insert local W={E=-309915-(-309922);["\055"]=381283+-381265,x=-1042173+1042206;w=-371175+371201,h=-638486+638513,o=-45997+46051,A=319847-319827;m=-40086-(-40149),b=207187-207139;N=-987499-(-987559);C=463040+-463036,d=-267964+268005;s=666955+-666903,t=204348-204338,J=527857+-527849,["\051"]=469821-469784;["\052"]=-463041-(-463091),["\043"]=-442800+442813;G=-347345-(-347366);["\049"]=-928261-(-928270),y=104040+-104015,l=-411657-(-411692);c=221618-221560,p=951452+-951451;v=-220575-(-220617),q=160116-160055,Y=384016+-383999;Z=993279+-993230;f=604731-604697;D=-840910-(-840950),P=-778857-(-778900),F=169477+-169432;V=-961205-(-961221);["\048"]=547978+-547922;["\047"]=708499+-708496;r=-768333-(-768395);z=942715-942692,I=963373-963371;j=-757024-(-757035);T=771563+-771506;a=-912434-(-912473),X=226527-226499,S=889921+-889890;W=-641918-(-641954),["\056"]=748830-748798;Q=380000-379949;u=-168864-(-168878),K=345984+-345960;O=970057-969998;e=86836-86830;n=-753019-(-753019),["\050"]=-677988-(-678026),["\054"]=-63092+63147;["\053"]=-48352+48396,R=-487044+487066,U=652942-652930;g=703348+-703318;k=929427-929380;i=829465-829436;["\057"]=219301-219255,M=454331-454312,B=-584060-(-584113);L=-563747-(-563762);H=41229-41224}local p=string.char local L=table.concat local V=string.len for g=-958102-(-958103),#K,-766703-(-766704)do local H=K[g]if D(H)=="\115\116\114\105\110\103"then local D=V(H)local O={}local G=32522-32521 local i=-305781-(-305781)local E=489995-489995 while G<=D do local g=Z(H,G,G)local K=W[g]if K then i=i+K*(920298-920234)^((-851851-(-851854))-E)E=E+(785091+-785090)if E==598224-598220 then E=-475315+475315 local g=f(i/(596440-530904))local K=f((i%(145035+-79499))/(-584743-(-584999)))local Z=i%(-875643-(-875899))h(O,p(g,K,Z))i=-261734+261734 end elseif g=="\061"then h(O,p(f(i/(-704289-(-769825)))))if G>=D or Z(H,G+(-375447-(-375448)),G+(107226+-107225))~="\061"then h(O,p(f((i%(564952+-499416))/(-826906+827162))))end break end G=G+(10757+-10756)end K[g]=L(O)end end end return(function(g,f,D,h,W,p,L,T,u,Z,E,O,H,z,b,i,V,x,G,d)u,x,i,H,z,E,G,b,V,T,O,Z,d=function(g,K)local f=i(K)local D=function(D,h,W)return Z(g,{D;h;W},K,f)end return D end,function(g,K)local f=i(K)local D=function(D,h,W,p,L)return Z(g,{D,h,W,p;L},K,f)end return D end,function(g)for K=-261907-(-261908),#g,-713490+713491 do H[g[K]]=H[g[K]]+(568074+-568073)end if D then local Z=D(true)local f=W(Z)f[K(504420-563984)],f[K(872811+-932398)],f[K(281173+-340768)]=g,E,function()return 817979+-1770240 end return Z else return h({},{[K(-360912+301325)]=E,[K(-323638+264074)]=g;[K(914018-973613)]=function()return-1849027-(-896766)end})end end,{},function(g,K)local f=i(K)local D=function(D)return Z(g,{D},K,f)end return D end,function(g)local K,Z=740776+-740775,g[181092-181091]while Z do H[Z],K=H[Z]-(-57643-(-57644)),K+(704638+-704637)if H[Z]==-1008597+1008597 then H[Z],V[Z]=nil,nil end Z=g[K]end end,-756345+756345,function(g,K)local f=i(K)local D=function(D,h)return Z(g,{D,h},K,f)end return D end,{},function(g,K)local f=i(K)local D=function(...)return Z(g,{...},K,f)end return D end,function()G=G+(-812494-(-812495))H[G]=-342612+342613 return G end,function(Z,D,h,W)local n,B,E,R,a,o,r,C,A,M,Q,Y,G,q,k,F,y,c,I,U,P,t,J,N,e,T,i,X,m,L,v,w,H,j while Z do if Z<-777922+9651881 then if Z<-132124+5173166 then if Z<4494633-1041745 then if Z<2362863-(-311705)then if Z<999505+517386 then if Z<-346412+1708414 then if Z<2350546-1004330 then i=-328642-(-328643)G=V[h[442972-442969]]H=G~=i Z=H and 5811226-(-988592)or-777125+3729348 else j=75607+-75607 P=#M X=P==j Z=X and 985392+12054319 or 10491492-227747 end else R=-238173+238428 G=i Z=V[h[-127996-(-127997)]]r=708300+-708300 m=Z(r,R)H[G]=m Z=-951010+11695749 G=nil end else if Z<315175+1538615 then C=V[G]Z=C and 4510349-504188 or 4362385-960517 L=C else e=V[G]Z=e and 13566480-(-600518)or 14579213-813630 C=e end end else if Z<321410+2847488 then if Z<3395334-354378 then G=V[h[-120678-(-120681)]]i=594928+-594722 H=G*i Z=-372721+1682532 G=140102-139845 L=H%G V[h[-727235+727238]]=L else Z=true V[h[-353654+353655]]=Z Z=g[K(-600879+541327)]L={}end else if Z<287745+3011495 then Z=7223852-(-355609)else V[G]=L Z=108040+13105567 end end end else if Z<346068+3845379 then if Z<4474536-555680 then if Z<3960485-296664 then if Z<791482+2722376 then Z=L and-79684+6708566 or 5379720-(-68232)else y=K(-75435-(-15884))Z=g[y]B=K(45680+-105253)j=g[B]y=Z(j)Z=K(-228940-(-169344))g[Z]=y Z=9617534-1034443 end else i=-416178+416178 H=K(773858-833449)Z=g[H]G=V[h[835957-835949]]H=Z(G,i)Z=-1026582+10682548 end else if Z<4687311-701873 then Z=5529970-(-93871)else e=Z k=-101102-(-101103)U=t[k]k=false c=U==k C=c Z=c and 6914851-(-367730)or 12821159-(-653714)end end else if Z<3836434-(-934749)then if Z<3658682-(-848092)then y=586012+-586011 j=1001725+-1001719 Z=V[m]q=Z(y,j)j=K(-625329+565733)Z=K(-914890-(-855294))g[Z]=q y=g[j]j=-530148+530150 Z=y>j Z=Z and 3604612-56725 or 9614251-525176 else H=D[290666-290665]G=D[-1020066-(-1020068)]Z=V[h[657461+-657460]]i=Z Z=i[G]Z=Z and 15542694-(-515599)or 6321276-22585 end else if Z<4345309-(-694189)then H=V[h[343839+-343838]]L=#H H=237372-237372 Z=L==H Z=Z and 709987+15421421 or 388333+9617987 else Z=V[h[-128960+128970]]G=V[h[-705149+705160]]H[Z]=G Z=V[h[1015852+-1015840]]G={Z(H)}L={f(G)}Z=g[K(582971+-642551)]end end end end else if Z<6524721-(-107119)then if Z<-1014074+6770148 then if Z<4946070-(-520246)then if Z<-496383+5895395 then if Z<19192+5371575 then Z=true H=D G=O()i=K(717828+-777388)V[G]=Z T=O()L=g[i]i=K(99540-159122)Z=L[i]E=O()i=O()V[i]=Z Z=z(587387+15972826,{})V[E]=Z Z=false V[T]=Z m=K(140574+-200124)r=z(935897+2151021,{T})J=g[m]m=J(r)L=m Z=m and 289304+13261656 or 16538507-593915 else Z=N L=R Z=R and 9442490-175654 or-658175+11149121 end else Z=V[h[1031899-1031892]]Z=Z and 3303683-(-480492)or 8792498-(-863468)end else if Z<6557499-855123 then Z=true Z=Z and 6938856-389369 or 14483844-413449 else q=V[G]a=q Z=q and 1009002+10143225 or 15115290-969677 end end else if Z<6667084-121019 then if Z<-651673+6613261 then T=907865-907863 G=V[h[742009-742008]]E=-558793+558794 i=G(E,T)G=665573-665572 H=i==G Z=H and 2999393-(-466319)or-60469+11027502 L=H else Z={}T=35184372975199-886367 r=K(-895941-(-836381))V[h[289134+-289132]]=Z L=V[h[-316018+316021]]m=-326666-(-326921)E=L L=G%T V[h[-1001603+1001607]]=L J=G%m m=54730+-54728 T=J+m V[h[923448-923443]]=T Z=387625+10958760 m=g[r]N=559466+-559465 r=K(-707167+647613)J=m[r]m=J(H)J=K(-148596-(-89025))i[G]=J J=265079-265011 r=-59115+59116 w=N N=587427-587427 R=m I=w<N N=r-w end else if Z<19754+6541752 then H=K(807435-867008)L=K(-161889+102293)Z=g[L]L=g[H]H=K(-328938+269365)g[H]=Z H=K(-23268-36328)g[H]=L H=V[h[950952-950951]]Z=-823115+6446956 G=H()else L=K(-599565+539975)R=b(780638+7127658,{})Z=g[L]E=K(-790155-(-730604))H=V[h[-224668+224672]]i=g[E]r=K(571408-630958)m=g[r]r={m(R)}m=780800+-780798 J={f(r)}T=J[m]E=i(T)i=K(-8036-51550)G=H(E,i)H={G()}L=Z(f(H))H=L G=V[h[-664472+664477]]L=G Z=G and 14513360-58790 or 50692+16705140 end end end else if Z<7999534-270649 then if Z<833612+6566152 then if Z<-177530+7082006 then if Z<-198670+6847552 then E=d(E)G=d(G)P=d(P)r=nil J=nil P=847221+-846965 m=d(m)N=d(N)i=d(i)X=nil m=K(241857+-301440)w=nil R=d(R)I=nil M=nil r=K(884369-943962)T=d(T)G=nil i=nil J=K(-599785+540202)T=g[J]N=O()J=K(815686+-875275)E=T[J]T=O()V[T]=E Z=-580277+14258395 J=g[m]m=K(344065+-403631)E=J[m]m=g[r]w={}R=K(-726838-(-667278))r=K(644862-704443)J=m[r]X=348292-348291 r=g[R]R=K(900310+-959887)m=r[R]r=830608+-830608 R=O()V[R]=r r=125753-125751 I=O()V[N]=r M={}r={}V[I]=w w=857516+-857516 j=P P=650815-650814 B=P P=-685608-(-685608)Q=B<P P=X-B else G=V[h[-490877-(-490880)]]i=628283-628251 H=G%i E=V[h[646620-646616]]m=V[h[-591004+591006]]X=V[h[841678+-841675]]R=-349815+349817 M=X-H w=-57549-(-57562)Z=918160+9088160 X=-364225+364257 I=M/X N=w-I r=R^N J=m/r T=E(J)E=625512+4294341784 R=-947673+947929 w=-843102+843358 i=T%E T=-906254-(-906256)E=T^H G=i/E r=-85796-(-85797)E=V[h[763103-763099]]m=G%r r=424809+4294542487 J=m*r T=E(J)H=nil E=V[h[622800-622796]]J=E(G)i=T+J T=-328643-(-394179)E=i%T m=677621+-612085 G=nil J=i-E T=J/m m=80894+-80638 J=E%m r=E-J m=r/R i=nil E=nil R=133638+-133382 r=T%R N=T-r T=nil R=N/w N={J;m,r;R}J=nil R=nil r=nil m=nil V[h[-179850-(-179851)]]=N end else k=-983366-(-983368)Z=12747213-(-727660)U=t[k]k=V[F]c=U==k C=c end else if Z<7685297-115488 then X=P v=X Z=754804+12923314 M[X]=v X=nil else Z=true Z=Z and-83664+4576817 or 10082211-(-781682)end end else if Z<-838325+8901457 then if Z<-363853+8387033 then G=K(-1014985+955411)i=-530826+14649426 H=G^i L=5226582-197729 Z=L-H H=Z L=K(928112+-987665)Z=L/H L={Z}Z=g[K(706325+-765886)]else Z=z(3504188-(-445805),{E})q={Z()}L={f(q)}Z=g[K(28817-88405)]end else if Z<8734695-455512 then Z=6864357-220025 else Z=-202541+7782002 end end end end end else if Z<12700648-(-790164)then if Z<11688256-769859 then if Z<10103282-(-381862)then if Z<436816+9549134 then if Z<-479466+9880180 then if Z<9674145-501711 then j=K(-737729+678133)Z=g[j]j=K(-543051-(-483478))g[j]=Z Z=7753660-(-829431)else X=x(9931760-(-1011668),{})w=1014307-1014242 R=O()N=-557316-(-557319)V[R]=L M=K(641333+-700883)y=K(-362814+303263)Z=V[m]L=Z(N,w)Z=-75750+75750 w=Z N=O()V[N]=L Z=-424147+424147 I=Z L=g[M]M={L(X)}Z={f(M)}M=Z L=-522509+522511 Z=M[L]X=Z L=K(-334636-(-275046))Z=g[L]P=V[i]q=g[y]y=q(X)q=K(-1025683-(-966097))a=P(y,q)P={a()}L=Z(f(P))P=O()V[P]=L a=V[N]q=a Z=10750860-(-496037)a=-898201+898202 y=a L=-602271+602272 a=876085-876085 j=y<a a=L-y end else Z={}H=Z i=V[h[-895725+895734]]Z=10914325-169586 G=268115+-268114 E=i i=-646048+646049 T=i i=544789-544789 J=T<i i=G-T end else if Z<-645231+10734526 then Z=g[K(-807041+747472)]i=K(142123-201716)G=g[i]i=K(789834+-849415)H=G[i]i=V[h[-620860+620861]]G={H(i)}L={f(G)}else j=#M P=-184848+184849 X=E(P,j)v=227937-227936 P=J(M,X)j=V[I]Q=P-v B=m(Q)Z=2109728-761164 X=nil j[P]=B P=nil end end else if Z<10647579-(-47884)then if Z<-551338+11229777 then N=K(-518890+459315)Z=890192+8376644 R=g[N]L=R else E=nil Z=13550701-(-894782)J=nil m=nil end else if Z<10343643-(-509314)then m=not J i=i+T G=i<=E G=m and G m=i>=E m=J and m G=m or G m=583080+834909 Z=G and m G=-681935+5721603 Z=Z or G else L={}Z=g[K(-308104+248537)]end end end else if Z<11281963-(-110775)then if Z<618109+10544513 then if Z<-482856+11628770 then if Z<10956550-(-5334)then L=12782635-11754 G=K(228393+-287985)i=432375+-187053 H=G^i Z=L-H L=K(-825809+766241)H=Z Z=L/H L={Z}Z=g[K(-777574+718019)]else G=V[h[-967949-(-967951)]]i=V[h[893473-893470]]H=G==i L=H Z=2665641-(-800071)end else Z=14195591-49978 q=w==I a=q end else if Z<977773+10299090 then B=not j a=a+y L=a<=q L=B and L B=a>=q B=j and B L=B or L B=15749573-661392 Z=L and B L=5792183-39647 Z=Z or L else M=not I N=N+w r=N<=R r=M and r M=N>=R M=I and M r=M or r M=14118392-410681 Z=r and M r=-184030+10870366 Z=Z or r end end else if Z<-214783+13266851 then if Z<12289725-(-564069)then P=#M j=-689519+689519 X=P==j Z=10762547-498802 else B=O()P=O()X={}V[P]=X X=O()j=b(6009539-1000982,{P,R,N;T})m=nil Y=K(278995+-338559)V[X]=j Z=g[K(-918461+858876)]j={}c=nil J=nil V[B]=j Q=K(112779-172337)m=K(53433+-113027)w=nil L={}v={}T=d(T)r=nil E=nil j=g[Q]t=K(107414+-166971)F=V[B]n={[Y]=F;[t]=c}Q=j(v,n)j=u(651786+4077436,{B,P,I;R,N;X})N=d(N)R=d(R)G=Q P=d(P)w=773188+9187085927538 B=d(B)i=j M=nil X=d(X)N=K(678785-738341)T=K(-186508+126932)I=d(I)E=g[T]J=g[m]R=i(N,w)i=nil r=G[R]R=K(-838051-(-778472))R=J[R]m={R(J,r)}T=E(f(m))G=nil E=T()end else if Z<815306+12480816 then t=nil Z=10670502-(-576395)B=d(B)F=d(F)v=d(v)Q=d(Q)n=d(n)Y=d(Y)else Z=e L=C Z=2934247-(-467621)end end end end else if Z<454719+14015451 then if Z<14285929-178188 then if Z<13839430-114231 then if Z<13749889-60346 then if Z<12634017-(-999325)then Z=16947717-1003125 J=V[T]L=J else v=not Q P=P+B X=P<=j X=v and X v=P>=j v=Q and v X=v or X v=6604683-(-804337)Z=X and v X=10760936-(-644323)Z=Z or X end else r=N y=K(176225+-235785)q=g[y]Z=1364+11345021 y=K(897282+-956844)a=q[y]q=a(H,r)a=V[h[-944753-(-944759)]]r=nil y=a()P=q+y y=-177358-(-177359)X=P+J P=631943-631687 M=X%P P=i[G]J=M q=J+y a=E[q]X=P..a i[G]=X end else if Z<603312+13392888 then V[G]=C A=-371604-(-371605)k=V[n]U=k+A c=t[U]e=w+c c=-832130-(-832386)Z=e%c w=Z U=V[v]c=I+U Z=-239779+13453386 U=-27503-(-27759)e=c%U I=e else L={}Z=g[K(1038015+-1097593)]end end else if Z<13224001-(-1030119)then if Z<15083606-919502 then V[G]=a Z=V[G]Z=Z and 1023083+7090052 or 14040729-(-895673)else c=147002-147001 e=t[c]Z=724314+13041269 C=e end else if Z<15341506-888882 then L={G}Z=g[K(235130+-294702)]else i=V[h[-226114+226120]]G=i==H L=G Z=-300510+17056342 end end end else if Z<16615328-538302 then if Z<16696646-854327 then if Z<559874+14457231 then if Z<15059429-172083 then M=K(459810-519403)I=g[M]Z=608731+4789554 M=K(809154+-868729)w=I[M]R=w else Z=true Z=-3905+8066227 end else F=1034602+-1034601 Q=K(264236+-323819)c=K(826747+-886298)B=O()V[B]=a o=623153-613153 n=-634379-(-634634)L=g[Q]Q=K(-1015052-(-955486))v=125060+-124960 Z=L[Q]Q=-397206-(-397207)t=-536544-(-536546)L=Z(Q,v)Q=O()v=65141+-65141 V[Q]=L Z=V[m]L=Z(v,n)v=O()V[v]=L Z=V[m]n=-799633+799634 Y=V[Q]L=Z(n,Y)n=O()V[n]=L L=V[m]Y=L(F,t)A=-792804-(-792804)L=-1040961+1040962 Z=Y==L t=K(-445153-(-385594))L=K(1024600+-1084186)Y=O()V[Y]=Z e=g[c]U=V[m]k={U(A,o)}c=e(f(k))e=K(-1015907+956348)C=c..e F=t..C Z=K(150343+-209908)Z=X[Z]Z=Z(X,L,F)F=O()V[F]=Z C=u(-627286+6413463,{m;B;N;i;G;P;Y;F;Q,n;v,R})t=K(370004+-429554)L=g[t]t={L(C)}Z={f(t)}t=Z Z=V[Y]Z=Z and 846232+813005 or 1729496-(-242961)end else if Z<16730902-776070 then J=L r=K(751547+-811140)m=K(654832+-714415)L=g[m]m=K(-592898-(-533332))Z=L[m]m=O()I=K(250626-310219)V[m]=Z L=g[r]r=K(-359195-(-299611))Z=L[r]N=Z r=Z w=g[I]R=w Z=w and-96956+14907721 or 5265777-(-132508)else Z=14344207-(-101276)end end else if Z<16041604-(-528134)then if Z<783391+15598438 then i=678882+-678873 G=V[h[-413674-(-413676)]]H=G*i G=30796557689110-633107 L=H+G H=171474+35184371917358 Z=L%H V[h[193882+-193880]]=Z G=730856+-730855 Z=2685490-(-266733)H=V[h[1027661-1027658]]L=H~=G else L=K(500310-559901)H=K(-651558+591988)Z=g[L]L=Z(H)Z=g[K(-311282-(-251719))]L={}end else if Z<17490317-881369 then Z=true Z=Z and 3902338-703484 or 481540+7580782 else Z=5057097-(-390855)V[h[-279531-(-279536)]]=L H=nil end end end end end end end Z=#W return f(L)end,function(g)H[g]=H[g]-(365403-365402)if 836495+-836495==H[g]then H[g],V[g]=nil,nil end end return(T(4939148-(-183347),{}))(f(L))end)(getfenv and getfenv()or _ENV,unpack or table[K(49888+-109463)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+local Players = game:GetService("Players")
+local UserInputService = game:GetService("UserInputService")
+local TweenService = game:GetService("TweenService")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local LP = Players.LocalPlayer
+local PlayerGui = LP:WaitForChild("PlayerGui")
+
+local getupvalues = (debug and debug.getupvalues) or getupvalues
+local getconns    = getconnections or (debug and debug.getconnections)
+local setupv      = (debug and debug.setupvalue) or setupvalue
+
+local function isOurGui(instance)
+    local p = instance
+    for _ = 1, 10 do
+        if not p then break end
+        if p.Name == "WaterVSRedeemerGui" then return true end
+        p = p.Parent
+    end
+    return false
+end
+
+local function findAllTextBoxes(pg)
+    local boxes = {}
+    for _, gui in ipairs(pg:GetChildren()) do
+        if gui:IsA("ScreenGui") and gui.Enabled and gui.Name ~= "WaterVSRedeemerGui" then
+            for _, d in ipairs(gui:GetDescendants()) do
+                if d:IsA("TextBox") and not isOurGui(d) then
+                    boxes[#boxes+1] = d
+                end
+            end
+        end
+    end
+    return boxes
+end
+
+local function isVisibleChain(inst)
+    local current = inst
+    while current do
+        if current:IsA("GuiObject") then
+            if not current.Visible then return false end
+        end
+        if current:IsA("ScreenGui") then
+            if not current.Enabled then return false end
+            return true
+        end
+        current = current.Parent
+    end
+    return true
+end
+
+local function findCodeButtons(pg)
+    local btns = {}
+    for _, gui in ipairs(pg:GetChildren()) do
+        if gui:IsA("ScreenGui") and gui.Enabled and gui.Name ~= "WaterVSRedeemerGui" then
+            for _, d in ipairs(gui:GetDescendants()) do
+                if (d:IsA("TextButton") or d:IsA("ImageButton")) and not isOurGui(d) then
+                    local n  = d.Name:lower()
+                    local pn = (d.Parent and d.Parent.Name or ""):lower()
+                    if (n:find("code") or n:find("redeem") or pn:find("code") or pn:find("redeem"))
+                        and isVisibleChain(d) then
+                        btns[#btns+1] = d
+                    end
+                end
+            end
+        end
+    end
+    return btns
+end
+
+local function clickButton(btn)
+    if not btn then return false end
+    local methods = {}
+    
+    methods[#methods+1] = function() btn.MouseButton1Click:Fire() end
+    methods[#methods+1] = function() btn.Activated:Fire() end
+    
+    if typeof(firesignal) == "function" then
+        methods[#methods+1] = function() firesignal(btn.MouseButton1Click) end
+        methods[#methods+1] = function() firesignal(btn.Activated) end
+    end
+    
+    if typeof(getconns) == "function" then
+        methods[#methods+1] = function()
+            local ok, cs = pcall(getconns, btn.MouseButton1Click)
+            if ok and type(cs) == "table" then
+                for _, c in ipairs(cs) do pcall(function() c:Fire() end) end
+            end
+            local ok2, cs2 = pcall(getconns, btn.Activated)
+            if ok2 and type(cs2) == "table" then
+                for _, c in ipairs(cs2) do pcall(function() c:Fire() end) end
+            end
+        end
+    end
+    
+    if typeof(fireclick) == "function" then
+        methods[#methods+1] = function() fireclick(btn) end
+    end
+    
+    local anyOk = false
+    for _, fn in ipairs(methods) do
+        local ok = pcall(fn)
+        anyOk = anyOk or ok
+    end
+    return anyOk
+end
+
+local function writeCodeToBox(box, code)
+    if not box then return false end
+    pcall(function()
+        box.Text = code
+    end)
+    return box.Text == code
+end
+
+local function fireBoxFocusLost(box)
+    if not box then return false end
+    local anyFired = false
+    
+    if typeof(firesignal) == "function" then
+        local ok = pcall(firesignal, box.FocusLost, true)
+        anyFired = anyFired or ok
+    end
+    
+    if typeof(getconns) == "function" then
+        local ok, cs = pcall(getconns, box.FocusLost)
+        if ok and type(cs) == "table" then
+            for _, c in ipairs(cs) do
+                local fn
+                pcall(function() fn = c.Function end)
+                if fn and typeof(getupvalues) == "function" and typeof(setupv) == "function" then
+                    local uOk, ups = pcall(getupvalues, fn)
+                    if uOk and type(ups) == "table" then
+                        for i, v in pairs(ups) do
+                            if type(v) == "boolean" and v == true then
+                                pcall(setupv, fn, i, false)
+                            end
+                        end
+                    end
+                end
+                local fOk = pcall(function()
+                    if c.Enabled ~= false then c:Fire(true) end
+                end)
+                anyFired = anyFired or fOk
+            end
+        end
+    end
+    
+    return anyFired
+end
+
+local function typeAndSubmitCode(code)
+    if not LP then return false, "no LP" end
+    local pg = LP:FindFirstChildOfClass("PlayerGui")
+    if not pg then return false, "no PlayerGui" end
+
+    local codesGui = pg:FindFirstChild("Codes")
+    if codesGui then
+        if codesGui:IsA("ScreenGui") then
+            codesGui.Enabled = true
+        end
+        local codesFrame = codesGui:FindFirstChild("Codes") or codesGui
+        if codesFrame then
+            if codesFrame:IsA("GuiObject") then
+                codesFrame.Visible = true
+            end
+            local cur = codesFrame
+            while cur and cur ~= codesGui do
+                if cur:IsA("GuiObject") then cur.Visible = true end
+                cur = cur.Parent
+            end
+
+            local box = nil
+            for _, d in ipairs(codesFrame:GetDescendants()) do
+                if d:IsA("TextBox") and not isOurGui(d) then
+                    box = d
+                    break
+                end
+            end
+
+            local submitBtn = nil
+            for _, d in ipairs(codesFrame:GetDescendants()) do
+                if (d:IsA("TextButton") or d:IsA("ImageButton")) and not isOurGui(d) then
+                    local n = d.Name:lower()
+                    local txt = ""
+                    pcall(function() txt = d.Text:lower() end)
+                    if n:find("submit") or txt:find("submit") or n:find("redeem") or txt:find("redeem") or n:find("claim") or txt:find("confirm") or n:find("enter") then
+                        submitBtn = d
+                        break
+                    end
+                end
+            end
+            if not submitBtn then
+                for _, d in ipairs(codesFrame:GetDescendants()) do
+                    if (d:IsA("TextButton") or d:IsA("ImageButton")) and not isOurGui(d) then
+                        local n = d.Name:lower()
+                        if not n:find("close") and not n:find("x") and not n:find("toggle") then
+                            submitBtn = d
+                            break
+                        end
+                    end
+                end
+            end
+
+            if box then
+                writeCodeToBox(box, code)
+                task.wait(0.05)
+                if submitBtn then
+                    clickButton(submitBtn)
+                end
+                fireBoxFocusLost(box)
+                return true, "submitted via PlayerGui.Codes.Codes"
+            end
+        end
+    end
+
+    local function tryOpenPanel()
+        local btns = findCodeButtons(pg)
+        for _, btn in ipairs(btns) do
+            clickButton(btn)
+            task.wait(0.05)
+        end
+        return #btns > 0
+    end
+
+    tryOpenPanel()
+    task.wait(0.3)
+
+    local box = nil
+    local deadline = tick() + 3
+    while tick() < deadline do
+        local allBoxes = findAllTextBoxes(pg)
+        for _, d in ipairs(allBoxes) do
+            if isVisibleChain(d) then
+                local n   = d.Name:lower()
+                local pn  = (d.Parent and d.Parent.Name or ""):lower()
+                if n:find("code") or pn:find("code") or n:find("redeem") or pn:find("redeem") or n:find("input") or pn:find("input") or n:find("textbox") or n:find("enter") then
+                    box = d
+                    break
+                end
+            end
+        end
+        if not box then
+            for _, d in ipairs(allBoxes) do
+                if isVisibleChain(d) then box = d; break end
+            end
+        end
+        if box then break end
+        task.wait(0.1)
+    end
+
+    if not box then return false, "no codebox visible" end
+
+    writeCodeToBox(box, code)
+    task.wait(0.05)
+
+    local redeemBtn = nil
+    local searchNames = {"submit","redeem","claim","confirm","enter","send","apply","ok","use","go","check"}
+    local p = box.Parent
+    for _ = 1, 8 do
+        if not p then break end
+        for _, d in ipairs(p:GetDescendants()) do
+            if (d:IsA("TextButton") or d:IsA("ImageButton")) and not isOurGui(d) and d ~= box then
+                local n = d.Name:lower()
+                local txt = ""
+                pcall(function() txt = d.Text:lower() end)
+                for _, sn in ipairs(searchNames) do
+                    if n:find(sn) or txt:find(sn) then
+                        if isVisibleChain(d) then
+                            redeemBtn = d
+                            break
+                        end
+                    end
+                end
+                if redeemBtn then break end
+            end
+        end
+        if redeemBtn then break end
+        p = p.Parent
+    end
+
+    if redeemBtn then
+        clickButton(redeemBtn)
+    end
+
+    fireBoxFocusLost(box)
+
+    return true, "fallback methods used"
+end
+
+local function resolveNotifyRemote()
+    if _G.PhiNotifyRemote then return _G.PhiNotifyRemote end
+    local Net = ReplicatedStorage:WaitForChild("Packages"):WaitForChild("Net")
+    local getinfo = debug and (debug.getinfo or debug.info)
+    if getgc and getinfo and getconnections then
+        for _, d in ipairs(Net:GetDescendants()) do
+            if d:IsA("RemoteEvent") then
+                local ok, cs = pcall(getconnections, d.OnClientEvent)
+                if ok then
+                    for _, c in ipairs(cs) do
+                        local f, fn = pcall(function() return c.Function end)
+                        if f and type(fn) == "function" then
+                            local i, info = pcall(getinfo, fn)
+                            if i and tostring(info.short_src or info.source or ""):find("NotificationController", 1, true) then
+                                return d
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end
+    return nil
+end
+
+local notifyRemote = resolveNotifyRemote()
+if not notifyRemote then
+    warn("[Water.vs] Notification remote not found - announcements won't be captured.")
+end
+
+if PlayerGui:FindFirstChild("WaterVSRedeemerGui") then
+    PlayerGui.WaterVSRedeemerGui:Destroy()
+end
+
+local CYAN = Color3.fromRGB(0, 220, 255)
+local CYAN_DIM = Color3.fromRGB(0, 160, 210)
+local CYAN_GLOW = Color3.fromRGB(80, 240, 255)
+local BG = Color3.fromRGB(4, 12, 20)
+local BG2 = Color3.fromRGB(8, 18, 30)
+local CARD = Color3.fromRGB(12, 24, 38)
+local TEXT = Color3.fromRGB(240, 250, 255)
+local TEXT_DIM = Color3.fromRGB(140, 180, 200)
+
+local screenGui = Instance.new("ScreenGui")
+screenGui.Name = "WaterVSRedeemerGui"
+screenGui.ResetOnSpawn = false
+screenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+screenGui.DisplayOrder = 120
+screenGui.IgnoreGuiInset = true
+pcall(function()
+    if syn and syn.protect_gui then syn.protect_gui(screenGui) end
+end)
+if not pcall(function()
+    if gethui then screenGui.Parent = gethui() else error("no gethui") end
+end) then
+    screenGui.Parent = PlayerGui
+end
+
+-- Compact mobile-friendly size
+local PANEL_W, PANEL_H = 260, 188
+local mainFrame = Instance.new("Frame")
+mainFrame.Name = "MainFrame"
+mainFrame.Size = UDim2.new(0, PANEL_W, 0, PANEL_H)
+mainFrame.Position = UDim2.new(0.5, -PANEL_W/2, 0.55, -PANEL_H/2)
+mainFrame.BackgroundColor3 = BG
+mainFrame.BorderSizePixel = 0
+mainFrame.ClipsDescendants = true
+mainFrame.Active = true
+mainFrame.Parent = screenGui
+Instance.new("UICorner", mainFrame).CornerRadius = UDim.new(0, 16)
+
+do
+    local s = Instance.new("UIStroke")
+    s.Color = CYAN
+    s.Thickness = 1.6
+    s.Transparency = 0.25
+    s.Parent = mainFrame
+    local outer = Instance.new("UIStroke")
+    outer.Color = CYAN_DIM
+    outer.Thickness = 3.5
+    outer.Transparency = 0.78
+    outer.Parent = mainFrame
+end
+
+-- Soft gradient
+do
+    local g = Instance.new("UIGradient")
+    g.Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(8, 22, 36)),
+        ColorSequenceKeypoint.new(1, Color3.fromRGB(2, 8, 14)),
+    })
+    g.Rotation = 120
+    g.Parent = mainFrame
+end
+
+-- Cyan rain layer
+local rainLayer = Instance.new("Frame")
+rainLayer.Name = "CyanRain"
+rainLayer.BackgroundTransparency = 1
+rainLayer.Size = UDim2.fromScale(1, 1)
+rainLayer.ClipsDescendants = true
+rainLayer.ZIndex = 1
+rainLayer.Active = false
+rainLayer.Parent = mainFrame
+Instance.new("UICorner", rainLayer).CornerRadius = UDim.new(0, 16)
+
+task.spawn(function()
+    while rainLayer and rainLayer.Parent do
+        for _ = 1, 2 do
+            if not rainLayer.Parent then break end
+            local drop = Instance.new("Frame")
+            drop.BackgroundColor3 = CYAN
+            drop.BackgroundTransparency = 0.4
+            drop.BorderSizePixel = 0
+            drop.Size = UDim2.new(0, math.random(1, 2), 0, math.random(10, 22))
+            drop.Position = UDim2.new(math.random() * 0.98, 0, -0.1, 0)
+            drop.ZIndex = 1
+            drop.Active = false
+            drop.Parent = rainLayer
+            Instance.new("UICorner", drop).CornerRadius = UDim.new(1, 0)
+            local dur = 0.65 + math.random() * 0.85
+            local tw = TweenService:Create(drop, TweenInfo.new(dur, Enum.EasingStyle.Linear), {
+                Position = UDim2.new(drop.Position.X.Scale, 0, 1.08, 0),
+                BackgroundTransparency = 0.92,
+            })
+            tw:Play()
+            tw.Completed:Connect(function() if drop then drop:Destroy() end end)
+        end
+        task.wait(0.1)
+    end
+end)
+
+-- Content root above rain
+local content = Instance.new("Frame")
+content.Name = "Content"
+content.BackgroundTransparency = 1
+content.Size = UDim2.fromScale(1, 1)
+content.ZIndex = 5
+content.Parent = mainFrame
+
+-- Header
+local topBar = Instance.new("Frame")
+topBar.Name = "TopBar"
+topBar.Size = UDim2.new(1, -16, 0, 36)
+topBar.Position = UDim2.new(0, 8, 0, 8)
+topBar.BackgroundColor3 = BG2
+topBar.BackgroundTransparency = 0.15
+topBar.BorderSizePixel = 0
+topBar.ZIndex = 6
+topBar.Parent = content
+Instance.new("UICorner", topBar).CornerRadius = UDim.new(0, 10)
+do
+    local s = Instance.new("UIStroke")
+    s.Color = CYAN
+    s.Thickness = 1
+    s.Transparency = 0.55
+    s.Parent = topBar
+end
+
+local logo = Instance.new("Frame")
+logo.Size = UDim2.new(0, 22, 0, 22)
+logo.Position = UDim2.new(0, 8, 0.5, -11)
+logo.BackgroundColor3 = CYAN
+logo.BorderSizePixel = 0
+logo.ZIndex = 7
+logo.Parent = topBar
+Instance.new("UICorner", logo).CornerRadius = UDim.new(0, 7)
+do
+    local g = Instance.new("UIGradient")
+    g.Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(0, 240, 255)),
+        ColorSequenceKeypoint.new(1, Color3.fromRGB(0, 140, 220)),
+    })
+    g.Rotation = 135
+    g.Parent = logo
+end
+local logoTxt = Instance.new("TextLabel")
+logoTxt.Size = UDim2.fromScale(1, 1)
+logoTxt.BackgroundTransparency = 1
+logoTxt.Text = "W"
+logoTxt.TextColor3 = Color3.fromRGB(255, 255, 255)
+logoTxt.Font = Enum.Font.GothamBlack
+logoTxt.TextSize = 12
+logoTxt.ZIndex = 8
+logoTxt.Parent = logo
+
+local titleLabel = Instance.new("TextLabel")
+titleLabel.Size = UDim2.new(1, -90, 0, 16)
+titleLabel.Position = UDim2.new(0, 36, 0, 4)
+titleLabel.BackgroundTransparency = 1
+titleLabel.Font = Enum.Font.GothamBlack
+titleLabel.Text = "Water.vs"
+titleLabel.TextColor3 = TEXT
+titleLabel.TextSize = 13
+titleLabel.TextXAlignment = Enum.TextXAlignment.Left
+titleLabel.ZIndex = 7
+titleLabel.Parent = topBar
+
+local subLabel = Instance.new("TextLabel")
+subLabel.Size = UDim2.new(1, -90, 0, 12)
+subLabel.Position = UDim2.new(0, 36, 0, 20)
+subLabel.BackgroundTransparency = 1
+subLabel.Font = Enum.Font.Gotham
+subLabel.Text = "CODE REDEEMER"
+subLabel.TextColor3 = CYAN
+subLabel.TextSize = 9
+subLabel.TextXAlignment = Enum.TextXAlignment.Left
+subLabel.ZIndex = 7
+subLabel.Parent = topBar
+
+local statusDot = Instance.new("TextButton")
+statusDot.Name = "StatusDot"
+statusDot.Size = UDim2.new(0, 28, 0, 28)
+statusDot.Position = UDim2.new(1, -32, 0.5, -14)
+statusDot.BackgroundColor3 = CARD
+statusDot.BorderSizePixel = 0
+statusDot.Text = "✕"
+statusDot.TextColor3 = TEXT_DIM
+statusDot.TextSize = 12
+statusDot.Font = Enum.Font.GothamBold
+statusDot.AutoButtonColor = false
+statusDot.ZIndex = 8
+statusDot.Parent = topBar
+Instance.new("UICorner", statusDot).CornerRadius = UDim.new(0, 8)
+
+local function styleBtn(btn, primary)
+    btn.BackgroundColor3 = primary and CYAN or CARD
+    btn.BackgroundTransparency = primary and 0.05 or 0.1
+    btn.BorderSizePixel = 0
+    btn.AutoButtonColor = false
+    btn.Font = Enum.Font.GothamBold
+    btn.TextColor3 = primary and Color3.fromRGB(5, 20, 30) or TEXT
+    Instance.new("UICorner", btn).CornerRadius = UDim.new(0, 10)
+    local s = Instance.new("UIStroke")
+    s.Color = CYAN
+    s.Thickness = 1
+    s.Transparency = primary and 0.35 or 0.6
+    s.Parent = btn
+end
+
+-- START SCAN
+local scanButton = Instance.new("TextButton")
+scanButton.Name = "ScanButton"
+scanButton.Size = UDim2.new(1, -16, 0, 28)
+scanButton.Position = UDim2.new(0, 8, 0, 50)
+scanButton.Text = "START SCAN"
+scanButton.TextSize = 11
+scanButton.ZIndex = 6
+scanButton.Parent = content
+styleBtn(scanButton, true)
+
+-- MODE
+local modeButton = Instance.new("TextButton")
+modeButton.Name = "ModeButton"
+modeButton.Size = UDim2.new(1, -16, 0, 26)
+modeButton.Position = UDim2.new(0, 8, 0, 84)
+modeButton.Text = "MODE: 3 GLOBAL MESSAGES"
+modeButton.TextSize = 9
+modeButton.ZIndex = 6
+modeButton.Parent = content
+styleBtn(modeButton, false)
+
+-- Preview + Redeem row
+local previewBox = Instance.new("TextBox")
+previewBox.Name = "PreviewBox"
+previewBox.Size = UDim2.new(1, -90, 0, 28)
+previewBox.Position = UDim2.new(0, 8, 0, 116)
+previewBox.BackgroundColor3 = CARD
+previewBox.BackgroundTransparency = 0.1
+previewBox.BorderSizePixel = 0
+previewBox.PlaceholderText = "Captured code..."
+previewBox.PlaceholderColor3 = TEXT_DIM
+previewBox.Text = ""
+previewBox.TextColor3 = TEXT
+previewBox.ClearTextOnFocus = false
+previewBox.Font = Enum.Font.GothamBold
+previewBox.TextSize = 11
+previewBox.TextXAlignment = Enum.TextXAlignment.Left
+previewBox.ZIndex = 6
+previewBox.Parent = content
+Instance.new("UICorner", previewBox).CornerRadius = UDim.new(0, 10)
+do
+    local s = Instance.new("UIStroke")
+    s.Color = CYAN
+    s.Thickness = 1
+    s.Transparency = 0.6
+    s.Parent = previewBox
+end
+local pad = Instance.new("UIPadding")
+pad.PaddingLeft = UDim.new(0, 8)
+pad.PaddingRight = UDim.new(0, 8)
+pad.Parent = previewBox
+
+local redeemButton = Instance.new("TextButton")
+redeemButton.Name = "RedeemButton"
+redeemButton.Size = UDim2.new(0, 70, 0, 28)
+redeemButton.Position = UDim2.new(1, -78, 0, 116)
+redeemButton.Text = "REDEEM"
+redeemButton.TextSize = 10
+redeemButton.ZIndex = 6
+redeemButton.Parent = content
+styleBtn(redeemButton, true)
+
+-- Bottom row: delay + set
+local bottomRow = Instance.new("Frame")
+bottomRow.Name = "BottomRow"
+bottomRow.Size = UDim2.new(1, -16, 0, 28)
+bottomRow.Position = UDim2.new(0, 8, 0, 150)
+bottomRow.BackgroundTransparency = 1
+bottomRow.ZIndex = 6
+bottomRow.Parent = content
+
+local delayLabel = Instance.new("TextLabel")
+delayLabel.Size = UDim2.new(0, 42, 1, 0)
+delayLabel.Position = UDim2.new(0, 2, 0, 0)
+delayLabel.BackgroundTransparency = 1
+delayLabel.Font = Enum.Font.GothamBold
+delayLabel.Text = "Delay"
+delayLabel.TextColor3 = TEXT_DIM
+delayLabel.TextSize = 10
+delayLabel.TextXAlignment = Enum.TextXAlignment.Left
+delayLabel.ZIndex = 7
+delayLabel.Parent = bottomRow
+
+local delayBox = Instance.new("TextBox")
+delayBox.Name = "DelayBox"
+delayBox.Size = UDim2.new(0, 48, 1, 0)
+delayBox.Position = UDim2.new(0, 46, 0, 0)
+delayBox.BackgroundColor3 = CARD
+delayBox.BackgroundTransparency = 0.1
+delayBox.BorderSizePixel = 0
+delayBox.Text = "0.5"
+delayBox.TextColor3 = TEXT
+delayBox.Font = Enum.Font.GothamBold
+delayBox.TextSize = 11
+delayBox.TextXAlignment = Enum.TextXAlignment.Center
+delayBox.ClearTextOnFocus = false
+delayBox.ZIndex = 7
+delayBox.Parent = bottomRow
+Instance.new("UICorner", delayBox).CornerRadius = UDim.new(0, 8)
+do
+    local s = Instance.new("UIStroke")
+    s.Color = CYAN
+    s.Thickness = 1
+    s.Transparency = 0.6
+    s.Parent = delayBox
+end
+
+local setButton = Instance.new("TextButton")
+setButton.Name = "SetButton"
+setButton.Size = UDim2.new(0, 56, 1, 0)
+setButton.Position = UDim2.new(1, -56, 0, 0)
+setButton.Text = "SET"
+setButton.TextSize = 10
+setButton.ZIndex = 7
+setButton.Parent = bottomRow
+styleBtn(setButton, false)
+
+-- Hover
+local function applyHoverEffect(button, isPrimary)
+    local offT = isPrimary and 0.05 or 0.1
+    button.MouseEnter:Connect(function()
+        TweenService:Create(button, TweenInfo.new(0.15), {
+            BackgroundTransparency = 0,
+            BackgroundColor3 = isPrimary and CYAN_GLOW or Color3.fromRGB(16, 32, 48),
+        }):Play()
+    end)
+    button.MouseLeave:Connect(function()
+        TweenService:Create(button, TweenInfo.new(0.15), {
+            BackgroundTransparency = offT,
+            BackgroundColor3 = isPrimary and CYAN or CARD,
+        }):Play()
+    end)
+end
+applyHoverEffect(scanButton, true)
+applyHoverEffect(modeButton, false)
+applyHoverEffect(setButton, false)
+applyHoverEffect(redeemButton, true)
+
+statusDot.MouseButton1Click:Connect(function() screenGui:Destroy() end)
+
+-- Drag (mobile + PC) — header / whole panel
+local dragging, dragInput, dragStart, startPos
+local function update(input)
+    local delta = input.Position - dragStart
+    mainFrame.Position = UDim2.new(
+        startPos.X.Scale,
+        startPos.X.Offset + delta.X,
+        startPos.Y.Scale,
+        startPos.Y.Offset + delta.Y
+    )
+end
+
+local function beginDrag(input)
+    dragging = true
+    dragStart = input.Position
+    startPos = mainFrame.Position
+    input.Changed:Connect(function()
+        if input.UserInputState == Enum.UserInputState.End then
+            dragging = false
+        end
+    end)
+end
+
+mainFrame.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+        beginDrag(input)
+    end
+end)
+mainFrame.InputChanged:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+        dragInput = input
+    end
+end)
+UserInputService.InputChanged:Connect(function(input)
+    if input == dragInput and dragging then
+        update(input)
+    end
+end)
+
+local scanning = false
+local buffer = {}
+local mode = 3
+local delay = 0.5
+
+local function updateDelay()
+    local val = tonumber(delayBox.Text)
+    if val and val >= 0.05 then
+        delay = val
+        print("[Water.vs] Delay set to:", delay)
+    else
+        delayBox.Text = tostring(delay)
+    end
+end
+
+delayBox.FocusLost:Connect(function(enter)
+    if enter then updateDelay() end
+end)
+
+delayBox:GetPropertyChangedSignal("Text"):Connect(function()
+    local val = tonumber(delayBox.Text)
+    if val and val >= 0.05 then
+        delay = val
+    end
+end)
+
+setButton.MouseButton1Click:Connect(updateDelay)
+
+local function isValidCode(msg)
+    return msg:match("^[A-Za-z0-9]+$") ~= nil
+end
+
+local function updatePreview()
+    if #buffer == 0 then
+        previewBox.Text = ""
+        return
+    end
+    local count = math.min(#buffer, mode)
+    local combined = table.concat(buffer, "", 1, count)
+    previewBox.Text = combined
+end
+
+local function processBuffer()
+    if not scanning then return end
+    while #buffer >= mode do
+        local combined = table.concat(buffer, "", 1, mode)
+        buffer = {}
+        updatePreview()
+        typeAndSubmitCode(combined)
+        print("[Water.vs] Auto-redeemed: " .. combined)
+        task.wait(delay)
+    end
+    updatePreview()
+end
+
+local function onAnnouncement(txt)
+    if not scanning or not txt or txt == "" then return end
+    local msg = txt:match("^%s*(.-)%s*$")
+    if msg and #msg > 0 and isValidCode(msg) then
+        table.insert(buffer, msg)
+        updatePreview()
+        if #buffer >= mode then
+            task.spawn(processBuffer)
+        end
+        print("[Water.vs] Captured: " .. msg .. " (buffer: " .. #buffer .. ")")
+    end
+end
+
+local function toggleScan()
+    scanning = not scanning
+    if scanning then
+        scanButton.Text = "SCANNING..."
+        scanButton.BackgroundColor3 = Color3.fromRGB(0, 200, 160)
+        scanButton.BackgroundTransparency = 0.05
+        statusDot.BackgroundColor3 = Color3.fromRGB(0, 220, 140)
+        statusDot.Text = "●"
+        statusDot.TextColor3 = Color3.fromRGB(5, 30, 20)
+        buffer = {}
+        updatePreview()
+        print("[Water.vs] Scanning started.")
+    else
+        scanButton.Text = "START SCAN"
+        scanButton.BackgroundColor3 = CYAN
+        scanButton.BackgroundTransparency = 0.05
+        statusDot.BackgroundColor3 = CARD
+        statusDot.Text = "✕"
+        statusDot.TextColor3 = TEXT_DIM
+        buffer = {}
+        updatePreview()
+        print("[Water.vs] Scanning stopped.")
+    end
+end
+
+scanButton.MouseButton1Click:Connect(toggleScan)
+
+modeButton.MouseButton1Click:Connect(function()
+    mode = (mode % 4) + 1
+    modeButton.Text = "MODE: " .. mode .. " GLOBAL MESSAGE" .. (mode > 1 and "S" or "")
+    updatePreview()
+    if scanning and #buffer >= mode then
+        task.spawn(processBuffer)
+    end
+end)
+
+local function manualRedeem()
+    local code = previewBox.Text
+    if code and code ~= "" then
+        typeAndSubmitCode(code)
+        print("[Water.vs] Manually redeemed: " .. code)
+        buffer = {}
+        updatePreview()
+    end
+end
+
+redeemButton.MouseButton1Click:Connect(manualRedeem)
+
+previewBox.FocusLost:Connect(function(enter)
+    if enter then manualRedeem() end
+end)
+
+if notifyRemote then
+    notifyRemote.OnClientEvent:Connect(function(txt, ...)
+        onAnnouncement(txt)
+    end)
+else
+    warn("[Water.vs] No notify remote - announcements not captured.")
+end
+
+print("[Water.vs] Code Redeemer ready. Tap START SCAN.")
