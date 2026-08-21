@@ -1,5 +1,3 @@
--- Water.vs | https://discord.gg/VyRHBRfB24
--- Water.vs Auto Grab
 repeat task.wait() until game:IsLoaded()
 
 local S = {
