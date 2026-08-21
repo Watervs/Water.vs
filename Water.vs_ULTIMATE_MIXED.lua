@@ -1,13 +1,8 @@
---[[LFWM1_XFYgxFhwlXshNr89c7mk9e7UnYTV0AVw]]
-do
-  local lfwm_7e97626092df4313 = "LFWM1_XFYgxFhwlXshNr89c7mk9e7UnYTV0AVw"
-  if false then error(lfwm_7e97626092df4313) end
-end
-
 -- [[ WATER.VS DUELS — ULTIMATE MIXED ]]
 -- Merged Makeover 2.0 + Cyan Rain Ultimate
 -- Premium glass UI · Multi-layer cyan rain · Zero red · Full Water.vs branding
 -- Infinite jump, full feature set, smooth page scrolling
+-- Compatibility fixed (no LFWM stub, no +=, safer startup)
 
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
@@ -10132,7 +10127,7 @@ function M.buildGui()
         function(on) setAnimToggle("Amazon Unboxed", on) end)
     M.setAmazonAnimVisual = setAmazonAnim
 
-    local _, setWaterVSSkin = uiToggleRow(PUtil, "Vync Skin", M.vyncSkinEnabled == true, function(on)
+    local _, setWaterVSSkin = uiToggleRow(PUtil, "Water.vs Skin", M.vyncSkinEnabled == true, function(on)
         M.setWaterVSSkin(on)
     end)
     M.setWaterVSSkinVisual = setWaterVSSkin
@@ -11625,7 +11620,7 @@ function M.buildKillLaggerPanel()
         local last, frames = tick(), 0
         trackConn(RunService.RenderStepped:Connect(function()
             if not screenGui or not screenGui.Parent then return end
-            frames += 1
+            frames = frames + 1
             local now = tick()
             if now - last >= 1 then
                 local fps = math.floor(frames / (now - last))
@@ -11735,7 +11730,7 @@ task.spawn(function()
 
     local function spawnDrop(rainCont, splashCont, abs, heavy)
         if not rainCont or not rainCont.Parent or activeDrops >= MAX_DROPS then return end
-        activeDrops += 1
+        activeDrops = activeDrops + 1
 
         local w = heavy and math.random(2, 3) or 1
         local h = heavy and math.random(16, 28) or math.random(9, 17)
@@ -11793,23 +11788,37 @@ task.spawn(function()
 end)
 
 
-pcall(function() if M.killLaggerOpen ~= false then M.buildKillLaggerPanel() end end)
-task.spawn(function() task.wait(0.35); pcall(M.playIntro) end)
+-- Safe startup (never crash on missing pieces)
 pcall(function()
-    if M.buildPingLaggerUI then M.buildPingLaggerUI() end
+    if M.killLaggerOpen ~= false and type(M.buildKillLaggerPanel) == "function" then
+        M.buildKillLaggerPanel()
+    end
+end)
+task.spawn(function()
+    task.wait(0.35)
+    if type(M.playIntro) == "function" then
+        pcall(M.playIntro)
+    end
+end)
+pcall(function()
+    if type(M.buildPingLaggerUI) == "function" then M.buildPingLaggerUI() end
     if M.pingPanelOpen then
-        if M.setPingPanelOpen then M.setPingPanelOpen(true) end
+        if type(M.setPingPanelOpen) == "function" then M.setPingPanelOpen(true) end
         if M.pingMain then M.pingMain.Visible = true end
-    elseif M.pingMain then M.pingMain.Visible = false end
-    if M.buildWaterVSBypassUI then M.buildWaterVSBypassUI() end
+    elseif M.pingMain then
+        M.pingMain.Visible = false
+    end
+    if type(M.buildWaterVSBypassUI) == "function" then M.buildWaterVSBypassUI() end
     if M.bypassPanelOpen then
-        if M.setBypassPanelOpen then M.setBypassPanelOpen(true) end
+        if type(M.setBypassPanelOpen) == "function" then M.setBypassPanelOpen(true) end
         if M.bypassPanelMain then M.bypassPanelMain.Visible = true end
     elseif M.bypassPanelMain then
         M.bypassPanelMain.Visible = false
         if M.bypassPanelMini then M.bypassPanelMini.Visible = false end
     end
-    if M.autoCarryEnemyBaseEnabled then M.startAutoCarryEnemyBase() end
+    if M.autoCarryEnemyBaseEnabled and type(M.startAutoCarryEnemyBase) == "function" then
+        M.startAutoCarryEnemyBase()
+    end
 end)
 print("════════════════════════════════════════════════")
 print("  WATER.VS DUELS  ·  ULTIMATE MIXED")
